@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **carlosaore@gmail.com**
 
-- :gem: I'm also on [LinkedIn](https://www.linkedin.com/in/carlosaore/)
+- :gem: I'm also on [Linkedin](https://www.linkedin.com/in/carlosaore/)
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=carlosaore&show_icons=true" alt="carlosaore" />
