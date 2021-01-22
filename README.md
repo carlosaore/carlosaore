@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there 👋, I'm Carlos</h1>
-<h3 align="center">A passionate Web Developer, environmentalist, project manager and avid cyclist</h3>
+<h3 align="center">A passionate Web Developer, environmentalist, project manager, and avid cyclist</h3>
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20" alt='javascript'/>
@@ -13,6 +13,7 @@
 </p>
 
 <p align="left">
+ 
 - 👨‍💻 Some of my projects:
   * in
   * construction
