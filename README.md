@@ -11,6 +11,8 @@
 <img src="https://img.icons8.com/fluent/48/000000/github.png" width="20" height="20" alt='github'/>
 <img src="https://img.icons8.com/bicycle" width="20" height="20" alt='bicycle'/>
 </p>
+<p align="center">
+ <img src="https://www.codewars.com/users/carlosaore/badges/large" alt='codewars'/>
 
 <p align="left">
  
