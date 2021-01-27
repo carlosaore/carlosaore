@@ -38,3 +38,5 @@
 <a href="https://www.linkedin.com/in/carlosaore/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/maksakymenko/" height="20" width="20" /></a>
 
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=59698756)
