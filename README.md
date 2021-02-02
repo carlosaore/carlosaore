@@ -26,7 +26,7 @@
   - [simple-calculator-vanillaJS](https://github.com/carlosaore/simple-calculator-vanillaJS): A very simple calculator app to showcase some vanilla HTML/JS/CSS skills.
   - more to come...
 
-- 🔧 Currently a student of [Wild Code School](https://www.wildcodeschool.com/), attending a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp that is 5 months long and is teaching us me the technical know-how and knowledge to develop interactive websites using HTML, CSS, JavaScript, so I can take a React and Node JS development project to completion.
+- 🔧 Currently a student of [Wild Code School](https://www.wildcodeschool.com/), attending a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp that is 5 months long and is teaching me the technical know-how and knowledge to develop interactive websites using HTML, CSS, JavaScript, so I can take a React and Node JS development project to completion.
 
 - 📫 How to reach me **carlosaore@gmail.com**
 
