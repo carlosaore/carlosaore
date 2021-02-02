@@ -21,6 +21,7 @@
   - [Fairtrade](https://github.com/carlosaore/winning-project): A web application that was coded using React during a 48 hours hackathon in web developer Bootcamp.
   - [universe-info-website](https://github.com/carlosaore/universe-info-website): A small website that shows information on space and the universe. Made with HTML, CSS and JS.
   - [hamburger-menu](https://github.com/carlosaore/hamburger-menu): A burger menu component built with React and with the added challenge of using hooks, context, conditional rendering, React Router and Styled Components.
+  - [accordion-component](https://github.com/carlosaore/accordion-component): A simple accordion component built with React.
   - [movies-api-app](https://github.com/carlosaore/movies-api-app): An app built to practice React hooks, API calls, React Router, styled components and atomic design. It shows a list of movies fetched from an API and does a lot of things with the data.
   - [simple-calculator-vanillaJS](https://github.com/carlosaore/simple-calculator-vanillaJS): A very simple calculator app to showcase some vanilla HTML/JS/CSS skills.
   - more to come...
