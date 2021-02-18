@@ -17,6 +17,8 @@
 <p align="left">
  
 - 👨‍💻 Some of my projects:
+  - [MeCademy website](https://github.com/DzmitryPS/Me_Cademy): Website being built for a client located in Germany (work in progress). It's built with React, [styled-components](https://styled-components.com/) and atomic design.
+  - [Mailio](https://github.com/carlosaore/mailio): An application to send an receive whatsapp messages on an offline smartphone through a online "middleman" smartphone, the [Twilio](https://www.twilio.com/whatsapp) API and QR codes. This webapp was coded using React during a 48 hours hackathon in web developer Bootcamp.
   - [e-commerce-app](https://github.com/carlosaore/e-commerce-app): An E-commerce web application created using React during a web developer Bootcamp by four awesome students.
   - [Fairtrade](https://github.com/carlosaore/winning-project): A web application that was coded using React during a 48 hours hackathon in web developer Bootcamp.
   - [universe-info-website](https://github.com/carlosaore/universe-info-website): A small website that shows information on space and the universe. Made with HTML, CSS and JS.
