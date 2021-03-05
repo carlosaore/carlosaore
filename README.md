@@ -17,7 +17,7 @@
 <p align="left">
  
 - 👨‍💻 Some of my projects:
-  - [MeCademy website](https://github.com/DzmitryPS/Me_Cademy): Website being built by a team of 4 as final project in a web developer bootcamp for a client located in Germany ([work in progress](https://adoring-lalande-637e36.netlify.app/)). It's built with React, [styled-components](https://styled-components.com/) and atomic design.
+  - [MeCademy website](https://github.com/carlosaore/Me_Cademy): Website being built by a team of 4 as final project in a web developer bootcamp for a client located in Germany ([work in progress](https://mecademy.netlify.app/)). It's built with React, [styled-components](https://styled-components.com/) and atomic design.
   - [Mailio](https://github.com/carlosaore/mailio): An application to send an receive whatsapp messages on an offline smartphone through a online "middleman" smartphone, the [Twilio API](https://www.twilio.com/whatsapp) and QR codes. The frontend was coded using React and the backend with NodeJS and Express during a 48 hours hackathon in web developer Bootcamp. 
   - [e-commerce-app](https://github.com/carlosaore/e-commerce-app): An E-commerce web application created using React during a web developer Bootcamp by four awesome students.
   - [openair-register](https://github.com/carlosaore/openair-register): A small demo web application for a business that offers functional training classes in open spaces and needs a simple website where you can register for a class.
