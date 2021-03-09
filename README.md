@@ -23,7 +23,7 @@
   - [bicitecla-cafe](https://github.com/carlosaore/bicitecla-cafe): A full stack web application for a client that has a bicycle based courier service and will use [this](https://www.bicitecla.cafe/) website to register new clients (work in progress). The frontend it's built with React, [styled-components](https://styled-components.com/) and atomic design and the backend is built with Node and Express).
   - more to come...
 
-- 🔧 Currently a student of [Wild Code School](https://www.wildcodeschool.com/), attending a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp that is 5 months long and is teaching me the technical know-how and knowledge to develop interactive websites using HTML, CSS, JavaScript, so I can take a React and Node JS development project to completion.
+- 🔧 After learning the fundaments of web development on my own, I attended a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp at [Wild Code School](https://www.wildcodeschool.com/), that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion.
 
 - 📫 How to reach me **carlosaore@gmail.com**
 
