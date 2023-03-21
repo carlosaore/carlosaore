@@ -8,8 +8,10 @@
 <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" width="40" height="40" alt='react'/>
 <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt='sql'/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt='mongodb'/>
-<img src="https://img.icons8.com/color/48/000000/html.png" width="40" height="40" alt='html'/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" alt='css'/>
+<img src="https://img.icons8.com/color/48/000000/nestjs.png" width="40" height="40" alt='nestjs'/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png" width="40" height="40" alt='firebase'/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" alt='aws'/>
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="40" height="40" alt='google cloud'/>
 <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" height="40" alt='github'/>
 <img src="https://img.icons8.com/bicycle" width="40" height="40" alt='bicycle'/>
 </p>
