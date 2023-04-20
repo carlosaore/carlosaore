@@ -6,6 +6,7 @@
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt='javascript'/>
 <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40" alt='typescript'/> 
 <img src="https://img.icons8.com/ultraviolet/48/000000/react.png" width="40" height="40" alt='react'/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" width="40" height="40" alt='vue'/>
 <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt='sql'/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt='mongodb'/>
 <img src="https://img.icons8.com/color/48/000000/nestjs.png" width="40" height="40" alt='nestjs'/>
