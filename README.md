@@ -20,9 +20,7 @@
  <img src="https://www.codewars.com/users/carlosaore/badges/large" alt='codewars'/>
 
 <p align="left">
-
-- 🔧 After learning the fundaments of web development on my own, I attended a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp at [Wild Code School](https://www.wildcodeschool.com/), that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion.
-
+ 
 - 📫 How to reach me **carlosaore@gmail.com**
 
 - :gem: I'm also on [Linkedin](https://www.linkedin.com/in/carlosaore/)
