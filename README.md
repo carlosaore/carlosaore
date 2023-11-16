@@ -24,10 +24,6 @@
 - 📫 How to reach me **carlosaore@gmail.com**
 
 - :gem: I'm also on [Linkedin](https://www.linkedin.com/in/carlosaore/)
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosaore&show_icons=true" alt="carlosaore" />
- </p>
  
  <p align="center">
 <a href="https://www.linkedin.com/in/carlosaore/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/maksakymenko/" height="20" width="20" /></a>
